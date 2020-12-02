@@ -21,7 +21,7 @@
 <div id='map'></div>
 
 <script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiZXdlYnkiLCJhIjoiY2pseWlodDZ1MG05MjNrbnh6b3ZiMWNqMSJ9.CvLgp_7BeAbpaEW0eVbAYQ';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZXdlYnkiLCJhIjoiY2tpN2V3bzR5MDk2djM0bjBsbHQ3a2djbSJ9.674Gjb8Uc7gMIgLqpdE8wQ';
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style:  'mapbox://styles/eweby/ckhbv51iq0vko19pcs3llpr4k', // stylesheet location 
